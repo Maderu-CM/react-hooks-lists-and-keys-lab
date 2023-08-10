@@ -3,7 +3,7 @@ import NavBar from "./NavBar";
 import Home from "./Home";
 import About from "./About";
 import ProjectList from "./ProjectList";
-import user from "../data/user";
+import user from "../data/user"; // Import the user data
 
 function App() {
   return (
